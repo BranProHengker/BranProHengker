@@ -12,9 +12,6 @@ Hi 👋! My name is Gibran Desu and I'm a Junior Front-end & UI/UX Designer from
 ![](https://nirzak-streak-stats.vercel.app/?user=BranProHengker&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BranProHengker&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BranProHengker&theme=blue_navy&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BranProHengker&icon=0&color=1)](https://visitcount.itsvg.in)
 
