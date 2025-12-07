@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Gibran Desu and I'm a Junior Front-end & UI/UX Designer from Malang/East Java/Indonesia
+Hi 👋! My name is Gibran Desu and I'm a Junior Front-end Engineer & UI/UX Designer from Malang/East Java/Indonesia
 
 
 ## 🌐 Socials:
