@@ -22,7 +22,7 @@ const gibran = {
   currentFocus: ["React", "Next.js", "TypeScript", "UI/UX Design"],
   learning: "Building scalable web applications 🚀",
   portfolio: "gutsi.my.id",
-  hobbies: ["Coding 💻", "Design 🎨", "Coffee ☕"]
+  hobbies: ["Coding 💻", "Gaming 🎮", "Travelling 🚶🐱‍👤"]
 };
 ```
 
