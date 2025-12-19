@@ -18,14 +18,17 @@ I'm passionate about creating beautiful and functional web experiences. With a f
 const gibran = {
   location: "Malang, Indonesia 🇮🇩",
   role: "Junior Front-end Engineer & UI/UX Designer",
+  currentStatus: "Intern at PT 3PM Solution 💼",
   currentFocus: ["React", "Next.js", "TypeScript", "UI/UX Design"],
   learning: "Building scalable web applications 🚀",
+  portfolio: "gutsi.my.id",
   hobbies: ["Coding 💻", "Design 🎨", "Coffee ☕"]
 };
 ```
 
+- 💼 Currently interning as **Front-end Developer** at **PT 3PM Solution**
 - 🎨 Specializing in **UI/UX Design** and **Front-end Development**
-- 💡 Currently exploring **React** and **Next.js** ecosystems
+- 💡 Working with **React** and **Next.js** ecosystems
 - 🌱 Always learning and improving my craft
 - ✨ Committed to writing clean, maintainable code
 - 🤝 Open to collaborate on interesting projects
@@ -42,6 +45,7 @@ const gibran = {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🎨 Design Tools
@@ -82,6 +86,7 @@ const gibran = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gutsi.my.id-00D9FF?style=for-the-badge)](https://gutsi.my.id)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gusti-gibran-avattar-819455389/)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bran.nnz/)
 [![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Br4n_.)
