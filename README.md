@@ -4,7 +4,7 @@
 
 ### Fullstack Engineer & Frontend Developer
 
-Malang, East Java, Indonesia &nbsp;•&nbsp; [gutsi.my.id](https://heybran.my.id) &nbsp;•&nbsp; [gustigibranavattr@gmail.com](mailto:gustigibranavattr@gmail.com)
+Malang, East Java, Indonesia &nbsp;•&nbsp; [heybran.my.id](https://heybran.my.id) &nbsp;•&nbsp; [gustigibranavattr@gmail.com](mailto:gustigibranavattr@gmail.com)
 
 </div>
 
